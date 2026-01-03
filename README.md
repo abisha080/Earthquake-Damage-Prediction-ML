@@ -19,4 +19,4 @@ Open the notebook in Google Colab and run all cells.
 
 ## 🔹 Team
 - Abisha C.
-- Mohana Priya S.
+
